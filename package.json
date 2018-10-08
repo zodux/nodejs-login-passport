@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-login-passport",
+  "version": "1.0.0",
+  "description": "Nodejs Login con Passport, express y Mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zodux/nodejs-login-passport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zodux/nodejs-login-passport/issues"
+  },
+  "homepage": "https://github.com/zodux/nodejs-login-passport#readme"
+}
